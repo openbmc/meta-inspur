@@ -1,0 +1,1 @@
+FILESEXTRAPATHS_prepend_on5263m5:= "${THISDIR}/${PN}:"
