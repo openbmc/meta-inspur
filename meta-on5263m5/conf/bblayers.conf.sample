@@ -15,5 +15,6 @@ BBLAYERS ?= " \
   ##OEROOT##/meta-aspeed \
   ##OEROOT##/meta-x86 \
   ##OEROOT##/meta-inspur \
+  ##OEROOT##/meta-inspur/meta-x86 \
   ##OEROOT##/meta-inspur/meta-on5263m5\
 "
