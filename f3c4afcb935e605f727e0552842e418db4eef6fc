@@ -1,0 +1,9 @@
+Ok-To-Test+1: John Wang <wangzqbj@inspur.com>
+Verified+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Code-Review+1: Lei YU <mine260309@gmail.com>
+Code-Review+2: John Wang <wangzqbj@inspur.com>
+Submitted-by: John Wang <wangzqbj@inspur.com>
+Submitted-at: Mon, 17 Jun 2019 06:19:27 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-inspur/+/22548
+Project: openbmc/meta-inspur
+Branch: refs/heads/master
