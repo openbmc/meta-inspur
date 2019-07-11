@@ -54,18 +54,7 @@
                     IPMIFruSection: Board
                     Value: false
 3:
-    /system:
-        entityID: 7
-        entityInstance: 1
-        interfaces:
-            xyz.openbmc_project.Inventory.Decorator.Asset:
-                Model:
-                    IPMIFruProperty: Part Number
-                    IPMIFruSection: Chassis
-                SerialNumber:
-                    IPMIFruProperty: Serial Number
-                    IPMIFruSection: Chassis
-    /system/chassis/motherboard:
+    /system/chassis/motherboard/bmc:
         entityID: 7
         entityInstance: 1
         interfaces:
@@ -73,11 +62,11 @@
                 BuildDate:
                     IPMIFruProperty: Mfg Date
                     IPMIFruSection: Board
-                Manufacturer:
-                    IPMIFruProperty: Manufacturer
-                    IPMIFruSection: Board
                 PartNumber:
                     IPMIFruProperty: Part Number
+                    IPMIFruSection: Board
+                Manufacturer:
+                    IPMIFruProperty: Manufacturer
                     IPMIFruSection: Board
                 SerialNumber:
                     IPMIFruProperty: Serial Number
@@ -534,3 +523,13 @@
                 PrettyName:
                     IPMIFruProperty: Name
                     IPMIFruSection: Product
+20:
+    /system/chassis/motherboard/bmc/ethernet:
+        entityID: 7
+        entityInstance: 2
+        interfaces:
+            xyz.openbmc_project.Inventory.Item.NetworkInterface:
+                MACAddress:
+                    IPMIFruProperty: MACAddress
+                    IPMIFruSection: Product
+            xyz.openbmc_project.Inventory.Item.Ethernet:
