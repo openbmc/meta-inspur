@@ -1,0 +1,9 @@
+Ok-To-Test+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Code-Review+1: Chicago Duan <duanzhijia01@inspur.com>
+Code-Review+2: John Wang <wangzq.jn@gmail.com>
+Verified+1: Jenkins <openbmc-ci-admin@ozlabs.org>
+Submitted-by: John Wang <wangzq.jn@gmail.com>
+Submitted-at: Tue, 06 Aug 2019 02:46:42 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-inspur/+/24150
+Project: openbmc/meta-inspur
+Branch: refs/heads/master
