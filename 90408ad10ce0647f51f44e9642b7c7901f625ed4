@@ -1,0 +1,9 @@
+Ok-To-Test+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Verified+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Code-Review+1: Chicago Duan <chicagoduan@outlook.com>
+Code-Review+2: George Liu <liuxiwei1013@gmail.com>
+Submitted-by: George Liu <liuxiwei1013@gmail.com>
+Submitted-at: Fri, 24 Jul 2020 06:17:01 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-inspur/+/34922
+Project: openbmc/meta-inspur
+Branch: refs/heads/master
