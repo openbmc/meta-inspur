@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ae48b7b9_76d4c90a",
+        "filename": "meta-fp5280g2/recipes-phosphor/dbus/phosphor-dbus-interfaces_%.bbappend",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2020-12-31T03:09:38Z",
+      "side": 1,
+      "message": "This should not be done in the recipe, but in a distro-level or machine-level config file.  I know there is one case in meta-ibm where they do this pattern and I recently sent an email to them to suggest they fix it.\n\nThe issue is that OBMC_ORG_YAML_SUBDIRS is intended to be used across multiple recipes.  Setting it in a bbappend only sets it for _this_ recipe.",
+      "revId": "d3f9be74bac35d34fdc9a202141627e4d36fab58",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
+      "unresolved": true
+    }
+  ]
+}
