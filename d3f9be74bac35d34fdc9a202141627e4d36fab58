@@ -16,6 +16,24 @@
       "revId": "d3f9be74bac35d34fdc9a202141627e4d36fab58",
       "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "01c274c9_72d5a4b0",
+        "filename": "meta-fp5280g2/recipes-phosphor/dbus/phosphor-dbus-interfaces_%.bbappend",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000397
+      },
+      "writtenOn": "2020-12-31T09:10:40Z",
+      "side": 1,
+      "message": "Thanks 😊\nI will fix it.",
+      "parentUuid": "ae48b7b9_76d4c90a",
+      "revId": "d3f9be74bac35d34fdc9a202141627e4d36fab58",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
+      "unresolved": true
     }
   ]
 }
