@@ -1,0 +1,10 @@
+Code-Review+2: George Liu <liuxiwei@inspur.com>
+Code-Review+1: Xiaochao Ma <maxiaochao@inspur.com>
+Code-Review+1: Albert Zhang <zhanghaodi@inspur.com>
+Verified+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Ok-To-Test+1: OpenBMC CI <openbmcbump-ci@yahoo.com>
+Submitted-by: George Liu <liuxiwei@inspur.com>
+Submitted-at: Wed, 20 Jan 2021 09:57:55 +0000
+Reviewed-on: https://gerrit.openbmc-project.xyz/c/openbmc/meta-inspur/+/39254
+Project: openbmc/meta-inspur
+Branch: refs/heads/master
