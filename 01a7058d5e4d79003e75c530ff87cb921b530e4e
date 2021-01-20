@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "cfdf2c97_a7a48710",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000400
+      },
+      "writtenOn": "2021-01-20T06:02:25Z",
+      "side": 1,
+      "message": "Why remove them?",
+      "revId": "01a7058d5e4d79003e75c530ff87cb921b530e4e",
+      "serverId": "adbd0a64-1f21-4d83-b585-671fe73cb6e4",
+      "unresolved": true
+    }
+  ]
+}
